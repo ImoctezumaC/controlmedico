@@ -1,0 +1,38 @@
+{
+  	label: "Name",
+    id: 1
+},
+{
+    label: "Name21",
+    id: 2
+},{
+    label: "Name3",
+    id: 3
+}]
+
+
+$idPaciente		
+$nombre	
+$apellido1		
+$apellido2		
+$fechNacimiento
+$sexoPaciente		
+$rfcPaciente		
+$dirCalleNum			
+$coloniaPaciente		
+$mpioPaciente		
+$cpPaciente			
+$estado		
+$pais		
+$nacionalidad		
+$tipoIdentificacion	
+$folioIdentificacion
+$tipoSangre
+$alergia
+$tipoAlergia		
+$alcoholismo		
+$tabaquismo		
+$toxicomania		
+$gpoEtnico		
+$heredoFamiliares		
+
